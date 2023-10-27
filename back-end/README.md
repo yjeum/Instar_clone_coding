@@ -1,3 +1,7 @@
+온라인에 있는 branch로 변경하기<br>
+git branch -r<br>
+git checkout -t <git branch -r에서 내가 가고 싶은 branch> 
+
 |ID|Depth 1|Depth 2|내용|
 |:--:|:--:|:--:|:--:|
 |user|로그인/회원관리|회원가입|아이디, 이름, 비밀번호 ,사용자 이름<br>프로필 첨부 가능(기본이미지 첨부)<br>가입완료 클릭 시 로그인 페이지로 이동<br>이용 약관 가입|
